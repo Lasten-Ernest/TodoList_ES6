@@ -65,7 +65,7 @@ webpack-dev-server extension installed
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/Lasten-Ernest/To-Do-List_app
+  git clone https://github.com/Lasten-Ernest/TodoList_ES6
 
 ### Install
 
@@ -122,7 +122,7 @@ N/A
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Lasten-Ernest/To-Do-List_app/issues).
+Feel free to check the [issues page](https://github.com/Lasten-Ernest/TodoList_ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
